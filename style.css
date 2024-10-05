@@ -18,10 +18,7 @@ background-color: aqua;
 }
  .ss {
     width: 100%;
-justify-content: center;
-align-items: center;
-display: flex;
-flex-direction: column;
+
 }
 
 .element input {
@@ -35,4 +32,6 @@ h1{
 button{
     height: 40px;
     width: 100px;
+    margin: 10px auto;
+    display: block;
 }
